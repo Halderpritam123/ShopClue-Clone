@@ -12,6 +12,7 @@ Backend Link:-https://shop-clue.onrender.com/
 Tech Stack Used:HTML, CSS, Node.js,Javascript
 
 Folder Structure:
+<pre>
 ├── root
 │   ├── folder1
 │   │   ├── file1.txt
@@ -22,4 +23,4 @@ Folder Structure:
 │   │   │   └── file4.txt
 │   │   └── file5.txt
 │   └── file6.txt
-
+</pre>
