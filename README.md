@@ -13,14 +13,37 @@ Tech Stack Used:HTML, CSS, Node.js,Javascript
 
 Folder Structure:
 <pre>
-├── root
-│   ├── folder1
-│   │   ├── file1.txt
-│   │   └── file2.txt
-│   ├── folder2
-│   │   ├── subfolder
-│   │   │   ├── file3.txt
-│   │   │   └── file4.txt
-│   │   └── file5.txt
-│   └── file6.txt
+├── database
+│   ├── CSS
+│   │   ├── Select_Address.css
+│   │   ├── admin.css
+│   │   ├── cart.css
+│   │   ├── checkout.css
+│   │   ├── index.css
+│   │   ├── login.css
+│   │   ├── payment.css
+│   │   ├── product.css
+│   │   ├── register.css
+│   │   └── script.css
+│   ├── JS
+│   │   ├── cart.js
+│   │   ├── checkout.js
+│   │   ├── employee.js
+│   │   ├── index copy.js
+│   │   ├── index.js
+│   │   ├── login.js
+│   │   ├── product.js
+│   │   └── script.js
+│   ├── images
+│   │
+│   ├── payment.html
+│   ├── Select_Address.html
+│   ├── admin1.html
+│   ├── api.rest
+│   ├── cart.html
+│   ├── checkout.html
+│   ├── employee.html
+│   ├── index.html
+│   └── product.html
+│
 </pre>
