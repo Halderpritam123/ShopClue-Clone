@@ -10,3 +10,16 @@ Backend Link:-https://shop-clue.onrender.com/
 ![Screenshot](https://github.com/Halderpritam123/Project-sss/blob/main/shopClue5.png)
 
 Tech Stack Used:HTML, CSS, Node.js,Javascript
+
+Folder Structure:
+├── root
+│   ├── folder1
+│   │   ├── file1.txt
+│   │   └── file2.txt
+│   ├── folder2
+│   │   ├── subfolder
+│   │   │   ├── file3.txt
+│   │   │   └── file4.txt
+│   │   └── file5.txt
+│   └── file6.txt
+
